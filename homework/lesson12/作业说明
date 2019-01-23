@@ -1,0 +1,2 @@
+对豆瓣的电影评分进行聚类分析，采用Kmeans聚类算法  
+具体通过 SKL中的TFIDF/kmeans 实现
