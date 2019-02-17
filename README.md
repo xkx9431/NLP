@@ -8,8 +8,11 @@ nlp 课程  目录
 ## 课程6 自然语言初步
 ## 课程7 搜索引擎初步
 ## 课程8 机器学习初步
-## 课程9-111 经典机器学习模型
+## 课程9-11 经典机器学习模型
 ## 课程12 kmeans ,word2vec advanced
 ## 课程13 Neural Networks
+### homework :
+1 tensorflow 代码实战（udacity,hands on tf;极客时间）
+2.手动实现一个神经网络
 ## 课程14 CNN机器原理
 ##
