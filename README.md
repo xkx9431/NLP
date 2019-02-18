@@ -14,5 +14,6 @@ nlp 课程  目录
 ### homework :
 1 tensorflow 代码实战（udacity,hands on tf;极客时间）
 2.手动实现一个神经网络
+3. 基于keras 实现CNN网络,并完成对MNIST数据的分类操作
 ## 课程14 CNN机器原理
 ##
