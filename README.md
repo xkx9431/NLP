@@ -107,35 +107,35 @@ nlp 课程  目录
 
 引言. 项目2的介绍
 
-1 卷积神经网络与 Spatial Invariant
-    1.1 卷积神经网络的历史背景
-    1.2 卷积神经网络空间平移不变形(Spatial Invariant)的原理
-    1.3 卷积神经网络与 weights sharing
-    1.4 卷积神经网络的原理及Python 实现
+#### 1 卷积神经网络与 Spatial Invariant
+    + 1.1 卷积神经网络的历史背景
+    + 1.2 卷积神经网络空间平移不变形(Spatial Invariant)的原理
+    + 1.3 卷积神经网络与 weights sharing
+    + 1.4 卷积神经网络的原理及Python 实现
 
-2 Pooling, Dropout 与 Batch Normalization
-     2.1 Pooling
-     2.2 Dropout
-     2.3 Batch Normalization 
+#### 2 Pooling, Dropout 与 Batch Normalization
+     + 2.1 Pooling
+     +2.2 Dropout
+     + 2.3 Batch Normalization 
 
-4 CNN 的可视化
-5 经典 CNN 模型分析：
-    5.1 LeNet
-    5.2 AlexNet
-    5.3 GoogLeNet
-    5.4 ResNet
-    5.5 DenseNet
+#### 4 CNN 的可视化
+#### 5 经典 CNN 模型分析：
+    + 5.1 LeNet
+    +5.2 AlexNet
+    +5.3 GoogLeNet
+    +5.4 ResNet
+    +5.5 DenseNet
 
-6 Transfer Learning 迁移学习
+#### 6 Transfer Learning 迁移学习
      6.1 迁移学习的背景
      6.2 迁移学习的方法
      6.3 Python 实现迁移学习的最佳实践
      
 ###  课程15 RNN循环网络 
 
-1. 序列模型的提出背景；
-2. 循环网络（RNN）的提出基本原理；
-3. 梯度爆炸和弥散（exploding & vanish）
-3. LSTM和GRU
-4. tensorflow和keras中RNN的使用
-5. Transfer Learning
++1. 序列模型的提出背景；
++2. 循环网络（RNN）的提出基本原理；
++3. 梯度爆炸和弥散（exploding & vanish）
++4. LSTM和GRU
++5. tensorflow和keras中RNN的使用
++6. Transfer Learning
