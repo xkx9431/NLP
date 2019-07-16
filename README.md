@@ -121,10 +121,10 @@ nlp 课程  目录
 #### 4 CNN 的可视化
 #### 5 经典 CNN 模型分析：
     + 5.1 LeNet
-    +5.2 AlexNet
-    +5.3 GoogLeNet
-    +5.4 ResNet
-    +5.5 DenseNet
+    + 5.2 AlexNet
+    + 5.3 GoogLeNet
+    + 5.4 ResNet
+    + 5.5 DenseNet
 
 #### 6 Transfer Learning 迁移学习
      6.1 迁移学习的背景
@@ -133,9 +133,9 @@ nlp 课程  目录
      
 ###  课程15 RNN循环网络 
 
-+1. 序列模型的提出背景；
-+2. 循环网络（RNN）的提出基本原理；
-+3. 梯度爆炸和弥散（exploding & vanish）
-+4. LSTM和GRU
-+5. tensorflow和keras中RNN的使用
-+6. Transfer Learning
++ 1. 序列模型的提出背景；
++ 2. 循环网络（RNN）的提出基本原理；
++ 3. 梯度爆炸和弥散（exploding & vanish）
++ 4. LSTM和GRU
++ 5. tensorflow和keras中RNN的使用
++ 6. Transfer Learning
